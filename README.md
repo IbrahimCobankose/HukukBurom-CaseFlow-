@@ -11,7 +11,7 @@ The system provides tailored access based on user roles (Individual Lawyer and B
 * **Case Management:** Create, update, and manage active cases. Track case details, client information, notes, and attached documents securely.
 * **Archive System:** Securely store completed or inactive cases in an isolated archive, with the ability to reactivate them if necessary.
 * **Financial Tracking:** Built-in tools to log and monitor case-specific income, expenses, and court fees, complete with document attachment capabilities for receipts.
-* **Integrated Legal Resources:** Direct, in-app access to the official legislation system (mevzuat.gov.tr) and the UYAP Lawyer Portal to prevent workflow interruptions.
+* **Integrated Legal Resources:** Direct, in-app access to the official legislation system (mevzuat.gov.tr) and to prevent workflow interruptions.
 * **Petition Templates:** A dynamic library offering quick access to frequently used legal petition templates that can be downloaded as Word documents.
 
 ## Application Interfaces
