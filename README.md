@@ -51,6 +51,6 @@ The archive for inactive cases and the managerial panel for overseeing affiliate
 4. Run `main.py` to start the application.
 
 ## Project Team
-* Kanican Köseoğlu
+* [Kanican Köseoğlu](https://github.com/KaniCanKOSEOGLU)
 * [Enes Türkmenoğlu](https://github.com/enestrkmngll)
 * [İbrahim Çobanköse](https://github.com/IbrahimCobankose)
