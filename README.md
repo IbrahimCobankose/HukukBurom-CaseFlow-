@@ -52,5 +52,5 @@ The archive for inactive cases and the managerial panel for overseeing affiliate
 
 ## Project Team
 * Kanican Köseoğlu
-* Enes Türkmenoğlu   || @enestrkmngll
-* İbrahim Çobanköse  || @IbrahimCobankose
+* [Enes Türkmenoğlu](https://github.com/enestrkmngll)
+* [İbrahim Çobanköse](https://github.com/IbrahimCobankose)
