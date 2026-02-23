@@ -1,0 +1,63 @@
+HukukBürom
+	->database
+		->connect_to_database.py
+	->forms
+		->archiveFormUi.py
+		->casesFormUi.py
+		->financialManagementFormUi.py
+		->legislationFormUi.py
+		->loginPageUi.py
+		->mainWindowFormUi.py
+		->myBureauFormUi.py
+		->petitionsFormUi.py
+		->registerPageUi.py
+		->singleCaseFormUi.py
+		->uyapFormUi.py
+	->scripts
+		->convertFiles.py
+
+	->ui
+		->archiveForm.ui
+		->casesForm.ui
+		->financialManagementForm.ui
+		->legislationForm.ui
+		->loginPage.ui
+		->mainWindowForm.ui
+		->myBureauForm.ui
+		->petitionsForm.ui
+		->registerPage.ui
+		->singleCaseForm.ui
+		->uyapForm.ui
+	->views
+		->formArchive.py
+		->formCases.py
+		->formFinancialManagement.py
+		->formLegislation.py
+		->formLogin.py
+		->formMainWindow.py
+		->formMyBureau.py
+		->formPetitions.py
+		->formRegister.py
+		->formSingleCase.py
+		->formUYAP.py
+		->MenuBase.py
+	->.env
+	->cfSqlCode.sql
+	->logo.ico
+	->main.py
+	->petitions_data.json
+	->picture_convert.py
+	->resources.py
+
+
+
+
+
+
+
+
+
+
+
+		
+

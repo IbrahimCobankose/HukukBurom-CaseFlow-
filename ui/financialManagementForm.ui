@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>FinancialManagementForm</class>
+ <widget class="QWidget" name="FinancialManagementForm">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>850</width>
+    <height>529</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Legal Financial Management Form</string>
+  </property>
+  <layout class="QFormLayout" name="formLayout">
+   <item row="3" column="0">
+    <widget class="QLabel" name="typeLabel">
+     <property name="text">
+      <string>Transaction Type:</string>
+     </property>
+    </widget>
+   </item>
+   <item row="3" column="1">
+    <widget class="QComboBox" name="typeComboBox">
+     <item>
+      <property name="text">
+       <string>Income</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>Expense</string>
+      </property>
+     </item>
+    </widget>
+   </item>
+   <item row="4" column="0">
+    <widget class="QLabel" name="clientLabel">
+     <property name="text">
+      <string>Client:</string>
+     </property>
+    </widget>
+   </item>
+   <item row="4" column="1">
+    <widget class="QComboBox" name="clientComboBox"/>
+   </item>
+   <item row="5" column="0">
+    <widget class="QLabel" name="defendantLabel">
+     <property name="text">
+      <string>Opponent:</string>
+     </property>
+    </widget>
+   </item>
+   <item row="5" column="1">
+    <widget class="QComboBox" name="opponentComboBox"/>
+   </item>
+   <item row="7" column="0">
+    <widget class="QLabel" name="amountLabel">
+     <property name="text">
+      <string>Amount:</string>
+     </property>
+    </widget>
+   </item>
+   <item row="7" column="1">
+    <widget class="QLineEdit" name="amountLineEdit"/>
+   </item>
+   <item row="8" column="0">
+    <widget class="QLabel" name="descriptionLabel">
+     <property name="text">
+      <string>Description:</string>
+     </property>
+    </widget>
+   </item>
+   <item row="8" column="1">
+    <widget class="QTextEdit" name="descriptionTextEdit"/>
+   </item>
+   <item row="9" column="1">
+    <widget class="QPushButton" name="saveButton">
+     <property name="text">
+      <string>Save</string>
+     </property>
+    </widget>
+   </item>
+   <item row="10" column="1">
+    <widget class="QPushButton" name="btnExit">
+     <property name="text">
+      <string>Exit</string>
+     </property>
+    </widget>
+   </item>
+   <item row="11" column="1">
+    <widget class="QPushButton" name="btnAddReceipt">
+     <property name="text">
+      <string>Fiş/Dekont Ekle</string>
+     </property>
+    </widget>
+   </item>
+   <item row="0" column="1">
+    <widget class="QComboBox" name="caseComboBox"/>
+   </item>
+   <item row="0" column="0">
+    <widget class="QLabel" name="caseLabel">
+     <property name="text">
+      <string>Case Number:</string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

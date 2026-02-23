@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>FormPetitions</class>
+ <widget class="QWidget" name="FormPetitions">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1505</width>
+    <height>836</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>60</y>
+     <width>221</width>
+     <height>171</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Divorce by Mutual Consent</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_2">
+   <property name="geometry">
+    <rect>
+     <x>330</x>
+     <y>60</y>
+     <width>221</width>
+     <height>171</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Correction of Land Share</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_3">
+   <property name="geometry">
+    <rect>
+     <x>630</x>
+     <y>50</y>
+     <width>221</width>
+     <height>171</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Lawsuit for Judicial Separation</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_4">
+   <property name="geometry">
+    <rect>
+     <x>940</x>
+     <y>60</y>
+     <width>221</width>
+     <height>171</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Work Permit Application</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_5">
+   <property name="geometry">
+    <rect>
+     <x>1230</x>
+     <y>60</y>
+     <width>221</width>
+     <height>171</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Check Cancellation</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_6">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>300</y>
+     <width>221</width>
+     <height>171</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Waiver of Lawsuit </string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_7">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>320</y>
+     <width>221</width>
+     <height>171</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Consolidation of Case Files</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_8">
+   <property name="geometry">
+    <rect>
+     <x>650</x>
+     <y>310</y>
+     <width>221</width>
+     <height>171</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Petition for Permission to Marry</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_9">
+   <property name="geometry">
+    <rect>
+     <x>1220</x>
+     <y>330</y>
+     <width>221</width>
+     <height>171</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string> Name Change</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_10">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>590</y>
+     <width>221</width>
+     <height>171</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Transfer of Condominium Ownership</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_11">
+   <property name="geometry">
+    <rect>
+     <x>380</x>
+     <y>580</y>
+     <width>241</width>
+     <height>181</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Request for Appointment of a Trustee</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_12">
+   <property name="geometry">
+    <rect>
+     <x>960</x>
+     <y>310</y>
+     <width>221</width>
+     <height>171</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Objection to Administrative Fine</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_13">
+   <property name="geometry">
+    <rect>
+     <x>680</x>
+     <y>550</y>
+     <width>221</width>
+     <height>171</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Request for Rent Increase</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_14">
+   <property name="geometry">
+    <rect>
+     <x>960</x>
+     <y>550</y>
+     <width>221</width>
+     <height>171</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Determination of Death</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_15">
+   <property name="geometry">
+    <rect>
+     <x>1220</x>
+     <y>560</y>
+     <width>261</width>
+     <height>171</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Cancellation and Registration of Title Deed</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btnExit">
+   <property name="geometry">
+    <rect>
+     <x>1270</x>
+     <y>770</y>
+     <width>93</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Exit</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btnAddPetition">
+   <property name="geometry">
+    <rect>
+     <x>1110</x>
+     <y>770</y>
+     <width>93</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Dilekçe Ekle</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
