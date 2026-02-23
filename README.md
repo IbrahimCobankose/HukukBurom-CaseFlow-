@@ -46,7 +46,7 @@ The archive for inactive cases and the managerial panel for overseeing affiliate
 
 ## Installation and Setup
 1. Clone the repository to your local machine.
-2. Ensure you have Python installed along with the required libraries (e.g., `PyQt5`, `mysql-connector-python`, `python-dotenv`).
+2. Ensure you have Python installed along with the required libraries (PyQt5, PyQtWebEngine, python-dotenv).
 3. Create a `.env` file in the root directory based on the `.env.example` structure and configure your local database credentials.
 4. Run `main.py` to start the application.
 
